@@ -1,0 +1,25 @@
+# Unreal Engine generated files
+Binaries/
+Build/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Content assets (large; delivered via demo video, not in repo)
+Content/
+
+# Marketplace plugins
+FluidNinjaLIVE*/
+
+# IDE files
+.vs/
+.vscode/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+*.sdf
+
+# Misc
+*.log
